@@ -14,14 +14,13 @@ Welcome to My Simple Django Project! This README will guide you through setting 
    - Create a virtual environment: 
      ```
      python -m venv nameofvirtualenv      # Windows
-     now start the env you just created and remeber always start the env every time you start writing code i meant when you came back to this project make sure your env is activated
-
-    to start :
-    nameofvirtualenv\Scripts\activate
-
-    and the name of your env should show in your terminal in the left side 
      ```
-
+     now start the env you just created and remeber always start the env every time you start writing code i meant when you came back to this project make sure your env is activated
+    - to start :
+     ```
+    nameofvirtualenv\Scripts\activate
+     ```
+    and the name of your env should show in your terminal in the left side 
 3. **Install Django**:
    - While inside the virtual environment, run: 
      ```
